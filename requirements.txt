@@ -1,0 +1,13 @@
+jupyterlab
+notebook
+pandas
+numpy
+matplotlib
+seaborn
+scikit-learn
+pdfplumber
+plotly
+python-dotenv
+pymongo
+streamlit as st
+google.generativeai
